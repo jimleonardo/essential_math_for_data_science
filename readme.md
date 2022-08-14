@@ -1,6 +1,10 @@
 # Notebooks for Essential Math for Data Science by Thomas Nield
 
-This is a collection of notebooks for the book [Essential Math for Data Science](https://www.oreilly.com/library/view/essential-math-for/9781098102920/).
+Data science is math heavy, and computers are for math. Still, it was time to dust off those college math skills (and then some), so I picked up [Essential Math for Data Science](https://www.oreilly.com/library/view/essential-math-for/9781098102920/). 
+
+This is a collection of Jupyter notebooks that I used as my scratch pad as I worked through the book. The exercises here are my own, not the code samples from the book. I used Visual Studio Code as my code editor. If you are reading this on [https://github.com/jimleonardo/essential_math_for_data_science/blob/main/chapter1.ipynb](my Github repository), you can see the results of executing the notebooks on line, no need to install Jupyter anywhere to see the results!
+
+All code is Python 3.10 with the SymPy package.
 
 [Chapter 1](chapter1.ipynb) - Basic Math and Calculus Review
 
