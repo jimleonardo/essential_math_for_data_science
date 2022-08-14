@@ -3,3 +3,7 @@
 This is a collection of notebooks for the book [Essential Math for Data Science](https://www.oreilly.com/library/view/essential-math-for/9781098102920/).
 
 [Chapter 1](chapter1.ipynb) - Basic Math and Calculus Review
+
+Check this out for doing crazy math:
+
+[Symbolab Step by Step calculator](https://www.symbolab.com/solver/step-by-step)
