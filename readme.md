@@ -7,6 +7,7 @@ This is a collection of Jupyter notebooks that I used as my scratch pad as I wor
 All code is Python 3.10 with the SymPy package.
 
 [Chapter 1](chapter1.ipynb) - Basic Math and Calculus Review
+[Chapter 2](chapter2.ipynb) - Probability
 
 Check this out for doing crazy math:
 
